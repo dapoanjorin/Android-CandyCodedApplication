@@ -8,7 +8,7 @@
   <component name="ChangeListManager">
     <list default="true" id="110f62ba-0394-47a9-8d73-ef04d6f3d4f7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,23 +129,31 @@
       <option name="project" value="LOCAL" />
       <updated>1601360686655</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="task completed: created a phone intent and started intent on ACTION_DIAL">
+      <created>1601361413220</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601361413220</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task completed: created infoIntent and started the activity" />
     <MESSAGE value="task completed: created mapIntent and started Google Maps" />
-    <option name="LAST_COMMIT_MESSAGE" value="task completed: created mapIntent and started Google Maps" />
+    <MESSAGE value="task completed: created a phone intent and started intent on ACTION_DIAL" />
+    <option name="LAST_COMMIT_MESSAGE" value="task completed: created a phone intent and started intent on ACTION_DIAL" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser" timestamp="1601358235166">
+    <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser" timestamp="1601361627603">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1601358235166" />
-    <state x="146" y="0" key="CommitChangelistDialog2" timestamp="1601360683127">
+    <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1601361627603" />
+    <state x="146" y="0" key="CommitChangelistDialog2" timestamp="1601361410191">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="146" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601360683127" />
+    <state x="146" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601361410191" />
     <state width="1323" height="184" key="GridCell.Tab.0.bottom" timestamp="1601359522442">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
